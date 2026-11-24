@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bánh Bao Nhà Hoàng",
+  "description": "Bánh bao nhà làm nóng hổi, mềm xốp, giao tận lớp trước giờ vào học từ 6h30 đến 7h15 sáng. Đặt bánh trực tuyến nhanh gọn cho học sinh và giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
